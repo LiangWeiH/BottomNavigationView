@@ -1,4 +1,4 @@
 # BottomNavigationView
-kotlin版 底部导航 AndroidX  
-效果如下  
+kotlin版 AndroidX  底部导航  
+
 ![image](https://github.com/kokoidsoidsa/BottomNavigationView/blob/master/images/2000.png)
